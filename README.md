@@ -1,7 +1,5 @@
 # TableAgentGPT
 
-# TableAgentGPT
-
 Welcome to **TableAgentGPT**! This tool allows you to interact with your tabular data by generating queries and retrieving insights on your behalf.
 
 ## Getting Started
