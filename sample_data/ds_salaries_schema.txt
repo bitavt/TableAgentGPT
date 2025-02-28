@@ -1,0 +1,12 @@
+- work_year: int. The year the salary was paid.
+- experience_level: string. The experience level in the job during the year. Categories: EN that stands for Entry-level / Junior. MI that stands for Mid-level / Intermediate. SE that stands for Senior-level / Expert. EX that stands for Executive-level / Director.
+- employment_type: string. The type of employment for the role. Categories: FT that stands for Full-time. PT that stands for Part-time. CT that stands for Contract. FL that stands for Freelance.
+- job_title: string. The role's title. Examples: Data Scientist, Lead Data Analyst.
+- salary:float. The total gross salary amount paid in the corresponding salary_currency.
+- salary_currency: string.The currency of the salary paid. Examples: USD, EUR.
+- salary_in_usd: float. The salary measured in USD dollars (standardized).
+- employee_residence: string. The employee's primary country of residence in the form of a standardized code used for country identification. Examples: US, GB.
+- remote_ratio: float. The percentage of remote work. Examples: 0, 50, 100.
+- company_location: string.The country where the employer's main office is located in the form of a standardized code used for country identification. Examples: NZ, FR.
+- company_size: string. The size of the company based on the number of employees. Categories: S that stands for Small (less than 50 employees).M that stands for Medium (50 to 250 employees). L that stands for Large (more than 250 employees).
+
